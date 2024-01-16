@@ -39,6 +39,12 @@
         margin-bottom: 20px;
     }
 
+      .info-personagem-grande {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+}
+
     .personagem img {
         max-width: 74px;
     }
@@ -47,9 +53,4 @@
         max-width: 74px;
     }
 
-   .info-personagem-grande {
-    display: flex;
-    flex-wrap: nowrap;
-    flex-direction: column;
-}
 }
